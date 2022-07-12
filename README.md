@@ -1,3 +1,1 @@
-# printf
-created a function that behaves like pintf
-  
+a function that behaves like printf
