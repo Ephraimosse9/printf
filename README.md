@@ -1,2 +1,3 @@
 # printf
-Alx project 
+created a function that behaves like pintf
+  
