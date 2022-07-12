@@ -1,1 +1,1 @@
-a function that behaves like printf
+a function that prints according to the input specifier
