@@ -63,4 +63,4 @@ printf("Len:[%d]\n", len2);
 
 
 _printf("Unknown:[%r]\n");
-It is developed by Precious Enuagwune and OSSE EPHRAIM OSAYI ALX cohort 7
+It is developed by PreciousIfeaka and OSSE EPHRAIM OSAYI ALX cohort 7
